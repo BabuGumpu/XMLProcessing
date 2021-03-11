@@ -19,7 +19,7 @@ public class DBExample {
             // create the mysql insert preparedstatement
             PreparedStatement preparedStmt = conn.prepareStatement(query);
             preparedStmt.setInt(1, 10002);
-            preparedStmt.setString(2, "Rama");
+            preparedStmt.setString(2, "RamaBalam");
             preparedStmt.setString(3, "Devi");
             preparedStmt.setString(4, "Adapalastreet");
             preparedStmt.setString(5, "Anantapur");

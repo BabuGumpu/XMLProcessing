@@ -1,0 +1,8 @@
+
+F
+java:S1128	")Remove this unused import 'java.io.File'.(†Ğ¥Å8²½€Å€/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(åÜ­•8çñÄ€/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(É¢ê­ûÿÿÿÿ8çñÄ€/
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ÿ·Ä€/
