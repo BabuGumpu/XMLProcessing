@@ -13,3 +13,11 @@ Y
 )src/main/java/com/practise/DBExample.java,c\1\c1c6a033163e5d41ffe2666bad83c7effcc36876
 [
 +src/main/java/com/practise/JDBCExample.java,d\4\d4bdba6c6b70d23f6bf918d59737c52d69d0a6b1
+Y
+)src/main/java/com/practise/SqlInsert.java,1\1\111e239326dcd429e83cfa0457234395b8fca69c
+c
+3src/main/java/com/practise/SqlRetrieveOrSelect.java,d\0\d099a5fa62c2afb6a7bd77725ebee4b8fef28312
+Y
+)src/main/java/com/practise/SqlUpdate.java,3\5\35a7c42bcaeafe903b316280e70838cbe8649550
+Y
+)src/main/java/com/practise/SqlDelete.java,d\e\de5b17300c7625411d42b6707b5a269d9d17440d
