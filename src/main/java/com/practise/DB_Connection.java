@@ -1,19 +1,10 @@
 package com.practise;
 
-
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 public class DB_Connection {
     private static Connection connection;
-
-    /*public static void main(String args[]){
-        DB_Connection obj_DB_connection = new DB_Connection();
-        System.out.println(obj_DB_connection.getConnection());
-    }
-
-     */
 
     public Connection getConnection(){
             Connection connection=null;
